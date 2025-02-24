@@ -1,2 +1,2 @@
-# API-Usage-Test
-API Usage Test repo
+# API Usage Projects
+API kullandımını test ettiğim depo
